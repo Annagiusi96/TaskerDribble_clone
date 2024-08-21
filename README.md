@@ -1,1 +1,1 @@
-my project is a clone of this: [https://dribbble.com/shots/24400469-Tasker-Management-and-productivity-platform. ](https://dribbble.com/shots/24400469-Tasker-Management-and-productivity-platform)
+my project is a clone of this: ![image](https://github.com/user-attachments/assets/797db174-8e10-4d5a-a96a-83795acfa738)
