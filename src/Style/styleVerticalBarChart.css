@@ -1,0 +1,22 @@
+
+.recharts-cartesian-axis-line{
+    display: none;
+}
+
+.recharts-cartesian-grid-horizontal :last-child{
+    display: none;
+}
+
+.recharts-cartesian-grid-vertical{
+    display: none;
+}
+
+.recharts-cartesian-axis-tick-line{
+    display: none;
+}
+
+.recharts-text{
+    font-family: 'Mona-sans', sans-serif;
+    fill: #d1d1d1;
+    font-size: 0.875rem;
+}
